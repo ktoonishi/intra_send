@@ -1,1 +1,3 @@
 # intra_send
+このソースはArduinoNanoを想定しています
+Secret_Moveと併せて使用することでSDカードにファイルを転送することができます
